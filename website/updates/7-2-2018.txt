@@ -1,0 +1,19 @@
+br
+hr
+span
+img attribute width and height in percentages border
+
+table tag and its atributes
+
+ol and its css
+
+pre ?
+Block elements contain inline elements not the reverse 
+
+Form elements have the purpose of getting data from the user 
+Includes the input tag that has no / tag at the end Attributes type and name?
+Type radio includes the attribute value
+Submit type submits a form
+Php needed in order to send the info server side 
+
+Frame 
